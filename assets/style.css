@@ -18,6 +18,10 @@ p {
   margin: 0;
 }
 
+main {
+    padding: 0 10vw;
+}
+
 .custom-card {
     margin: 20px 1px;
 }
