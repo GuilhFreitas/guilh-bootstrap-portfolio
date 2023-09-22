@@ -15,12 +15,20 @@ h6 {
   padding: 0;
 }
 
+h2 {
+  background-color: #1e81b0;
+}
+
 p {
   margin: 0;
 }
 
 a {
   margin: 0;
+}
+
+li {
+  font-size: large;
 }
 
 main {
@@ -32,6 +40,16 @@ main {
 }
 
 .custom-jumbotron {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.custom-lead {
+  font-size: x-large;
+}
+
+#work {
+  background-color: #abdbe3;
   margin-left: 10%;
   margin-right: 10%;
 }
